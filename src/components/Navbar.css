@@ -1,0 +1,14 @@
+.menu {
+  display: flex;
+  gap: 1rem;
+}
+
+.menu-item {
+  text-decoration: none;
+  color: inherit;
+  font-weight: 500;
+}
+
+.menu-item:hover {
+  color: #007bff;
+}
